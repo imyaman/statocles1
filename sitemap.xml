@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://statocles.sys5.co/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2021-09-21</lastmod>
+    </url>
+    <url>
+        <loc>https://statocles.sys5.co/blog/2021/09/21/2021-09-21/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2021-09-21</lastmod>
+    </url>
+    <url>
+        <loc>https://statocles.sys5.co/blog/2021/09/21/first-post/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2021-09-21</lastmod>
+    </url>
+    <url>
+        <loc>https://statocles.sys5.co/page/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2021-09-21</lastmod>
+    </url>
+</urlset>
+
+

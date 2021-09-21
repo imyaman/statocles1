@@ -1,0 +1,5 @@
+Sitemap: https://statocles.sys5.co/sitemap.xml
+User-Agent: *
+Disallow:
+
+
